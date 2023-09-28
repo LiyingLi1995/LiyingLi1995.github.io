@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Selected Publication
-===============
+---------------
 
 [1] Liying Li, Yinghui Wang, Haizhou Wang, Shiyan Hu, and Tongquan Wei, “An Efficient Architecture for Imputing Distributed Data Sets of IoT Networks”, IEEE Internet of Things Journal, vol. 10, no. 17, pp. 15100-15114, 2023. (SCI一区期刊)
 
