@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Nanjing, China"
-title                    : "Liying Li's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Liying Li"
 description              : &description "Assistant Professor, Nanjing University of Science and Technology, liyingli@njust.edu.cn"
