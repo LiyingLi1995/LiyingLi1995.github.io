@@ -7,12 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Liying Li received her Ph.D. degree from the Department of Computer Science and Technology, East China Normal University, Shanghai, China, in 2022. She is currently an assistant professor of the Department of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China. Her current research interests are in the areas of cyber-physical systems, IoT resource management, data mining, and distributed artificial intelligence.
+Liying Li received her Ph.D. degree from the Department of Computer Science and Technology, East China Normal University, Shanghai, China, in 2022. She is currently an assistant professor of the [Department of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/), Nanjing, China. Her current research interests are in the areas of cyber-physical systems, IoT, edge computing, and edge intelligence, where she has published 30 refereed papers, including IEEE Transaction such as TC, TCAD, TPDS, TII, TASE, 1 ESI Top 1% Highly Cited Paper, and 1 IEEE Best Paper Award.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Liying Li's research is supported by the National Natural Science Foundation of China, Natural Science Foundation of Jiangsu Province, and Ministry of Education Engineering Research Center of Software/Hardware Co-Design Technology and Application. 
 
-A data-driven personal website
+I'm interested in new colleagues at all levels: undergraduates, graduate students, and post-docs. I'm looking for bright and self-motivated students who have a strong interest in cloud-edge-IoT and system design.
+If you are currently studying at NJUST and want to work with me (or you just want to discuss your brilliant idea with me), feel free to send me an email (liyingli@njust.edu.cn).
+
+课题组每年招收研究生多名，名额充足，欢迎报考研究生的同学联系我！邮箱：liyingli@njust.edu.cn
+
+课题组与国内外著名专家学者建立了长期紧密的合作关系，合作者主要来自于自清华大学、浙江大学、华东师范大学、英国南安普敦大学、美国圣母大学、密歇根大学安娜堡分校、纽约州立大学、瑞典于默奥大学、澳洲悉尼科技大学等。每位同学均有与领域大牛面对面交流，以及去往美国、英国、瑞典、澳洲等地方参与短期学术交流的机会。
+
+Team
 ======
+
+Dr. [Junlong Zhou](https://www.junlongzhou.team/), Associate Professor, School of Computer Science and Engineering, Nanjing University of Science and Technology.
+Dr. Peijin Cong, Assistant Professor, School of Computer Science and Engineering, Nanjing University of Science and Technology.
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
