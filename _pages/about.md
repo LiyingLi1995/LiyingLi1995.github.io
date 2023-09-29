@@ -14,6 +14,8 @@ Liying Li's research is supported by the National Natural Science Foundation of 
 I'm interested in new colleagues at all levels: undergraduates, graduate students, and post-docs. I'm looking for bright and self-motivated students who have a strong interest in cloud-edge-IoT and system design.
 If you are currently studying at NJUST and want to work with me (or you just want to discuss your brilliant idea with me), feel free to send me an email (liyingli@njust.edu.cn).
 
-课题组每年招收研究生多名，名额充足，欢迎报考研究生的同学联系我！邮箱：liyingli@njust.edu.cn
+课题组每年招收研究生多名，名额充足，欢迎报考研究生的同学联系我！
+
+邮箱：liyingli@njust.edu.cn
 
 课题组与国内外著名专家学者建立了长期紧密的合作关系，合作者主要来自于自清华大学、浙江大学、华东师范大学、英国南安普敦大学、美国圣母大学、密歇根大学安娜堡分校、纽约州立大学、瑞典于默奥大学、澳洲悉尼科技大学等。每位同学均有与领域大牛面对面交流，以及去往美国、英国、瑞典、澳洲等地方参与短期学术交流的机会。
