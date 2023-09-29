@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Publicatins"
+title: "Fundings (科研项目)"
 permalink: /talks/
 author_profile: true
 ---
 
-Selected Publication
+主持
 ---------------
+1. 国家自然科学基金青年项目，2024-2026
+2. 江苏省自然科学基金青年项目，2023-2026
+3. 软硬件协同设计技术与应用教育部工程研究中心开放课题，2023-2025
+4. 华东师范大学2020年优秀博士生学术创新能力提升计划，2020-2022（已结题）
 
-[1] Liying Li, Yinghui Wang, Haizhou Wang, Shiyan Hu, and Tongquan Wei, “An Efficient Architecture for Imputing Distributed Data Sets of IoT Networks”, IEEE Internet of Things Journal, vol. 10, no. 17, pp. 15100-15114, 2023. (SCI一区期刊)
-
-[2] 李丽颖，张润泽，魏同权，面向边缘计算的服务解耦与部署策略，计算机研究与发展，2023, 60(5): 1073-1085. (CCF A类期刊)
