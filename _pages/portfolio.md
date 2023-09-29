@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Award (获奖)"
+title: "Awards (获奖)"
 permalink: /portfolio/
 author_profile: true
 ---
