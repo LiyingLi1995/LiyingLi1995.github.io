@@ -83,12 +83,11 @@ author:
   name             : "Liying Li (李丽颖)"
   avatar           : "photo.png"
   bio              : "Assistant Professor"
-  location         : "2073-1 CS Building, 200 Xiaolingwei,\n\ 
-                      Nanjing University of Science and Technology, Nanjing, China"
+  location         : "Nanjing University of Science and Technology, Nanjing, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "liyingli@njust.edu.cn"
+  email            : #"liyingli@njust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
