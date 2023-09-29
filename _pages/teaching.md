@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching (开授课程)"
-permalink: /talks/
+permalink: /teaching/
 author_profile: true
 ---
 
